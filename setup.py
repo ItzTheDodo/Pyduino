@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
   name="Pyduino",
-  version="1.0"
+  version="1.0",
   author="ItzTheDodo",
   author_email="-",
   description="A library that enables coding for the Arduino",
